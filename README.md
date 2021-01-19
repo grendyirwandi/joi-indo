@@ -1,9 +1,10 @@
-# joi
+# joi-indo
 
-#### The most powerful schema description language and data validator for JavaScript.
+#### The most powerful schema description language and data validator for JavaScript. Now in the Indonesian version
 
 ## Installation
 `npm install joi`
+`clone & copy to node_modules/joi`
 
 ### Visit the [joi.dev](https://joi.dev) Developer Portal for tutorials, documentation, and support
 
